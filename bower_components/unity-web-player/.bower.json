@@ -1,0 +1,36 @@
+{
+  "name": "unity-web-player",
+  "homepage": "https://github.com/cesardeazevedo/unity-web-player",
+  "authors": [
+    "César Augusto D. Azevedo <cesardeazevedo@outlook.com>"
+  ],
+  "description": "Web Component for Unity3D Web Player",
+  "main": "unity-web-player.html",
+  "keywords": [
+    "web-components",
+    "custom-elements",
+    "unity3d",
+    "web-player"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.5.2"
+  },
+  "_release": "8afe4cc41b",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "8afe4cc41bc66d5e337f931d2eff1829ef02b0a7"
+  },
+  "_source": "https://github.com/cesardeazevedo/unity-web-player.git",
+  "_target": "*",
+  "_originalSource": "unity-web-player",
+  "_direct": true
+}
